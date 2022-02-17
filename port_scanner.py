@@ -6,7 +6,6 @@ https://www.youtube.com/watch?v=t9EX2RAUoTU
 
 import socket
 import sys
-import timeit
 from datetime import datetime
 
 remoteServer = input("Enter a remote host to scan: ")
