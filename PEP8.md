@@ -5,9 +5,9 @@ I will be adding to this over time to help my Python projects get better
     1. Use 4 spaces per indentation level.
     2. Use Spaces (not tabs).
     3. Limit lines to 79 characters (72 for docstrings and comments).
-    4. Break lines BEFORE Binary operations:
+    4. Break lines BEFORE Binary operations:<br>
         Yes   10 <br>
-               + 5 = x 
+               + 5 = x<br> 
         No    10 + <br>
                5 = x
     5. Surround top-level functions and class definitions with TWO blank lines.
